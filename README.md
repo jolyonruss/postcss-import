@@ -13,7 +13,7 @@ To resolve path of an `@import` rule, it can look into root directory
 or local modules.
 _When importing a module, it will look for `index.css` or file referenced in
 `package.json` in the `style` or `main` fields._
-You can also provide manually multiples paths where to look at.
+You can also manually provide multiple paths for PostCSS to import from.
 
 **Notes:**
 
